@@ -1,8 +1,12 @@
-package es.service;
+package es.repository;
 
-public interface RoomColliderService {
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import es.model.CoordinatesData;
+
+public interface RoomColliderRepository extends MongoRepository<CoordinatesData, String> {
 	
-	public String hello();
+	
 	
 	
 
