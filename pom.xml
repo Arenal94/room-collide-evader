@@ -9,6 +9,6 @@
  <modules>
 	 <module>room-collider</module>
 </modules>
-    
+	<packaging>pom</packaging>
     
 </project>
