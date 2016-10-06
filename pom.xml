@@ -8,7 +8,7 @@
   
  <modules>
 	 <module>room-collider</module>
-	 <module>room-collider-front</module>
+	 <module>room-collider-frontend</module>
 </modules>
 	<packaging>pom</packaging>
     
