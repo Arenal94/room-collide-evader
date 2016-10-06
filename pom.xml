@@ -8,8 +8,7 @@
   
  <modules>
 	 <module>room-collider</module>
-	 <module>room-colliderDTOs</module>
 </modules>
-    
+	<packaging>pom</packaging>
     
 </project>
